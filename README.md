@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AfaqShuaib09
-- 👀 I’m interested in Backend and Front site Developing 
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Backend and Front Developing 
 - 📫 How to reach me https://web.facebook.com/afaq.shoaib.9/
 - or email at: afaq.shoaib09@gmail.com
 
