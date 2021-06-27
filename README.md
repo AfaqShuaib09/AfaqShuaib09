@@ -3,7 +3,7 @@
 - ----
 
 
-- <h3>Interests 👀</h3>
+<h3>Interests 👀</h3>
 <ul>
   <li>Backend Devevelopment </li>
   <li>Web SCRAPING/ Text Scrapping using python</li>
