@@ -1,5 +1,5 @@
 - <h2>About Me</h2>
-- 👋 Hi, I’m Muhammad Afaq Shuaib, a student developer from [**PUCIT**](http://pucit.edu.pk), Pakistan.
+- 👋 Hi, I’m Muhammad Afaq Shuaib, a student developer from [**PUCIT**](http://pucit.edu.pk), Old Campus Lahore, Pakistan.
 - ----
 
 
