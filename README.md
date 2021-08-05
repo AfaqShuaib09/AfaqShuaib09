@@ -1,9 +1,9 @@
-- <h2>About Me</h2>
+
 <img align="center" src="https://github.com/AfaqShuaib09/AfaqShuaib09/blob/main/github_prfileLogo.PNG" width="100%">
 
 ----
 
-
+- <h2>About Me</h2>
 - 👋 Hi, I’m Muhammad Afaq Shuaib, a student developer from [**PUCIT**](http://pucit.edu.pk), Old Campus Lahore, Pakistan.
 - ----
 
