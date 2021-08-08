@@ -22,6 +22,15 @@
 - for my python tuturials: visit: https://replit.com/@bcsf18m004MUHAM
 - Less go 🚀
 
+----
+
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=AfaqShuaib09&theme=tokyonight&show_icons=true&hide_border=true" width="400px"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfaqShuaib09&layout=compact&theme=tokyonight&hide_border=true" width="335px"/>
+</div>
+
+----
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
