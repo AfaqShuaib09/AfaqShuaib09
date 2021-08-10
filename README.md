@@ -11,7 +11,8 @@
 <h3>Interests 👀</h3>
 <ul>
   <li>Backend Devevelopment </li>
-  <li>Web SCRAPING/ Text Scrapping</li>
+  <li>Web Scrapping / Text Scrapping</li>
+   <li> Desktop GUI Application Design using MVC Pattern</li>
   <li>Problem Solving</li>
   <li>Game Development using pygame</li>
 </ul>
