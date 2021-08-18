@@ -21,6 +21,7 @@
 
 - 📫 How to reach me email at: afaq.shoaib09@gmail.com
 - for my python tuturials: visit: https://replit.com/@bcsf18m004MUHAM
+- Live Resume: https://afaq-resume-live.netlify.app/
 - Less go 🚀
 
 ----
