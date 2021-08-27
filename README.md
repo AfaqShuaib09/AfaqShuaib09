@@ -41,7 +41,7 @@
 
 > 🏆 111 Contributions in the Year 2021
  > 
-> 📦 51.2 kB Used in Github's Storage 
+> 📦 51.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,7 +105,7 @@ Tcl                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AfaqShuaib09/AfaqShuaib09/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2021
+ Last Updated on 27/08/2021
 <!--END_SECTION:waka-->
 
 <!---
