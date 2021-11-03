@@ -40,15 +40,15 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 242 Contributions in the Year 2021
+> 🏆 238 Contributions in the Year 2021
  > 
 > 📦 102.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 25 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -106,7 +106,7 @@ C#                       2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AfaqShuaib09/AfaqShuaib09/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2021
+ Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
 
 <!---
