@@ -40,7 +40,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 269 Contributions in the Year 2021
+> 🏆 262 Contributions in the Year 2021
  > 
 > 📦 115.6 kB Used in GitHub's Storage 
  > 
@@ -110,7 +110,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AfaqShuaib09/AfaqShuaib09/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/12/2021
+ Last Updated on 16/12/2021
 <!--END_SECTION:waka-->
 
 <!---
