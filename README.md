@@ -34,7 +34,7 @@
 ----
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -79,15 +79,15 @@ Sunday       49 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-JavaScript               8 hrs 20 mins       ██████████████████████░░░   90.45% 
-SCSS                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
-Assembly                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
+JavaScript               7 hrs 27 mins       ██████████████████████░░░   90.3% 
+SCSS                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.64% 
+Assembly                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
 
 🔥 Editors: 
-VS Code                  9 hrs 13 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 13 mins       █████████████████████████   100.0%
+Windows                  8 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +108,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AfaqShuaib09/AfaqShuaib09/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka-->
 
 <!---
