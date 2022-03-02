@@ -79,16 +79,13 @@ Sunday       54 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-Python                   20 hrs 29 mins      ████████████████████████░   98.85% 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 hrs 43 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 hrs 43 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -109,7 +106,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AfaqShuaib09/AfaqShuaib09/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/02/2022 19:23:42 UTC
+ Last Updated on 02/03/2022 19:23:29 UTC
 <!--END_SECTION:waka-->
 
 <!---
