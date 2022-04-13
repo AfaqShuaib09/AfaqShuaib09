@@ -31,9 +31,6 @@
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=AfaqShuaib09&theme=tokyonight&show_icons=true&hide_border=true" width="400px"/>
 </div>
 
-<a  align="center">
-![](https://komarev.com/ghpvc/?username=AfaqShuaib09&color=blueviolet&label=Profile+Views)
-	</a>
 ----
 
 <!--START_SECTION:waka-->
