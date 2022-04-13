@@ -31,10 +31,13 @@
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=AfaqShuaib09&theme=tokyonight&show_icons=true&hide_border=true" width="400px"/>
 </div>
 
+<a  align="center">
+![](https://komarev.com/ghpvc/?username=AfaqShuaib09&color=blueviolet&label=Profile+Views)
+	</a>
 ----
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-205-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
