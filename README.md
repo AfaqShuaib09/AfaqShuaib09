@@ -113,14 +113,13 @@ Sunday       65 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-JavaScript               5 hrs 24 mins       █████████████████████████   99.56% 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 26 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 26 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -141,7 +140,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AfaqShuaib09/AfaqShuaib09/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/04/2022 19:25:51 UTC
+ Last Updated on 01/05/2022 19:25:07 UTC
 <!--END_SECTION:waka-->
 
 <!---
