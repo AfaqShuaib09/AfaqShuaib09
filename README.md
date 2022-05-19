@@ -76,6 +76,8 @@ Programming Languages
 
 **🐱 My GitHub Data** 
 
+> 🏆 23 Contributions in the Year 2022
+ > 
 > 📦 118.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -113,13 +115,13 @@ Sunday       65 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   20 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -140,7 +142,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AfaqShuaib09/AfaqShuaib09/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/05/2022 19:24:58 UTC
+ Last Updated on 19/05/2022 19:26:18 UTC
 <!--END_SECTION:waka-->
 
 <!---
