@@ -5,6 +5,8 @@
 
 - <h2>About Me</h2>
 - 👋 Hi, I’m Muhammad Afaq Shuaib, a student developer from [**PUCIT**](http://pucit.edu.pk), Old Campus Lahore, Pakistan.
+- 🚀  I'm currently working on [CampusCube (Final Year Project)](http://campuscube.netlify.app)
+
 - ----
 
 
@@ -26,15 +28,7 @@
 - Personal Website : https://flowcv.me/muhamad-afaq-shuaib
 - Less go 🚀
 
-
-[![website](./img/globe-light.svg)](https://afaq-resume-live.netlify.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://afaq-resume-live.netlify.app/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhammad-afaq-shuaib/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-afaq-shuaib/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/afaq_shoaib/?hl=en#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/afaq_shoaib/?hl=en#gh-dark-mode-only)
+<p align="left"> <a href="https://www.facebook.com/afaq.shoaib.9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/AfaqShuaib09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/afaq_shoaib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammad-afaq-shuaib/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ----
 ### Languages and Tools:
@@ -69,7 +63,6 @@ Programming Languages
 
 <!--START_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=AfaqShuaib09)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -137,13 +130,6 @@ C#                       2 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/AfaqShuaib09/AfaqShuaib09/main/charts/bar_graph.png) 
-
-
- Last Updated on 27/05/2022 19:23:58 UTC
-<!--END_SECTION:waka-->
 
 <!---
 AfaqShuaib09/AfaqShuaib09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
