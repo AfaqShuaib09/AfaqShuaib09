@@ -54,10 +54,9 @@ Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)
 
 ----
+### Completed the Hacktoberfest 2021 
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=AfaqShuaib09&theme=tokyonight&show_icons=true&hide_border=true" width="400px"/>
-</div>
+[![Hacktoberfest 2020](https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)](https://dev.to/afaqshuaib09)  <img height="195" src="https://github-readme-stats.vercel.app/api?username=AfaqShuaib09&theme=tokyonight&show_icons=true&hide_border=true" width="400px"/>
 
 ----
 
