@@ -56,7 +56,7 @@ Programming Languages
 ----
 ### Completed the Hacktoberfest 2021 
 
-[![Hacktoberfest 2020](https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)](https://dev.to/afaqshuaib09)  <img height="195" src="https://github-readme-stats.vercel.app/api?username=AfaqShuaib09&theme=tokyonight&show_icons=true&hide_border=true" width="400px"/>
+[![Hacktoberfest 2020](https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)](https://dev.to/afaqshuaib09) ![Afaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaqShuaib09&theme=algolia&show_icons=true&default_repocard)
 
 ----
 
