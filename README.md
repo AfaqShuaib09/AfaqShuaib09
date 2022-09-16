@@ -4,7 +4,7 @@
 ----
 
 - <h2>About Me</h2>
-- 👋 Hi, I’m Muhammad Afaq Shuaib, a student developer from [**PUCIT**](http://pucit.edu.pk), Old Campus Lahore, Pakistan.
+- 👋 Hi, I’m Muhammad Afaq Shuaib, Software Engineer 👨‍💻 at Arbisoft (MERN, Django), PUCIT'22.
 - 🚀  I'm currently working on [CampusCube (Final Year Project)](http://campuscube.netlify.app)
 
 - ----
