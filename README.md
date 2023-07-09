@@ -60,6 +60,10 @@ Programming Languages
 
 ----
 
+<a href="https://app.daily.dev/afaqshoaib"><img src="https://api.daily.dev/devcards/f9e6a2379df0453f89bf126aa9708a87.png?r=q0o" width="400" alt="Afaq Shoaib's Dev Card"/></a>
+
+-----
+
 <!--START_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=AfaqShuaib09)
 
