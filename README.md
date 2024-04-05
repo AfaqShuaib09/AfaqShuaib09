@@ -5,7 +5,7 @@
 
 - <h2>About Me</h2>
 - 👋 Hi, I’m Muhammad Afaq Shuaib, Software Engineer 👨‍💻 at Arbisoft (MERN, Django), PUCIT'22.
-- 🚀  I'm currently working on [CampusCube (Final Year Project)](http://campuscube.netlify.app)
+- 🚀  I'm currently working on edx.org / Bugbash (Arbisoft)
 
 - ----
 
